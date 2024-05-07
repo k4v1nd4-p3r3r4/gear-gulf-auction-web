@@ -1,9 +1,5 @@
 # gear-gulf-auction-web
 
-# Project Usage Guide
-
-This document provides instructions on how to set up and run the project, which consists of a backend developed using Spring Boot with MySQL Database and a frontend developed using React with Material-UI (MUI).
-
 ## Prerequisite
 
 - Code Editor (e.g., Visual Studio Code, IntelliJ IDEA)
